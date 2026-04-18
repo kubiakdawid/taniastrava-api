@@ -22,5 +22,11 @@
     "name": "Toruń - Złotoria",
     "details": "Długa trasa asfaltowa, częściowo ścieżką rowerową. Długość: 25km.",
     "type": "ROWEROWE"
+  },
+  {
+    "id": "5",
+    "name": "Toruń - testowa bema",
+    "details": "Bardzo długa prosta do sprintu. Długość: 25km.",
+    "type": "BIEGOWE"
   }
 ]
