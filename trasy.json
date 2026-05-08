@@ -3,30 +3,35 @@
     "id": "1",
     "name": "Bulwar Filadelfijski",
     "details": "Płaska trasa wzdłuż Wisły. Idealna na wieczorne rozbieganie. Długość: 3km.",
-    "type": "BIEGOWE"
+    "type": "BIEGOWE",
+    "imageUrl": ""
   },
   {
     "id": "2",
     "name": "Lasek Bielański",
     "details": "Leśne ścieżki, zróżnicowany teren. Dobra na trening crossowy. Długość: 5km.",
-    "type": "BIEGOWE"
+    "type": "BIEGOWE",
+    "imageUrl": ""
   },
   {
     "id": "3",
     "name": "Rowerem na Barbarkę",
     "details": "Asfalt i utwardzone ścieżki leśne. Trasa rekreacyjna. Długość: 15km.",
-    "type": "ROWEROWE"
+    "type": "ROWEROWE",
+    "imageUrl": ""
   },
   {
     "id": "4",
     "name": "Toruń - Złotoria",
     "details": "Długa trasa asfaltowa, częściowo ścieżką rowerową. Długość: 25km.",
-    "type": "ROWEROWE"
+    "type": "ROWEROWE",
+    "imageUrl": ""
   },
   {
     "id": "5",
     "name": "Toruń - testowa bema",
     "details": "Bardzo długa prosta do sprintu. Długość: 25km.",
-    "type": "BIEGOWE"
+    "type": "BIEGOWE",
+    "imageUrl": ""
   }
 ]
