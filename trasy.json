@@ -4,34 +4,34 @@
     "name": "Bulwar Filadelfijski",
     "details": "Płaska trasa wzdłuż Wisły. Idealna na wieczorne rozbieganie. Długość: 3km.",
     "type": "BIEGOWE",
-    "imageUrl": "https://github.com/kubiakdawid/taniastrava-api/blob/main/images/bulwar.jpg"
+    "imageUrl": "https://kubiakdawid.github.io/taniastrava-api/images/bulwar.jpg"
   },
   {
     "id": "2",
     "name": "Lasek Bielański",
     "details": "Leśne ścieżki, zróżnicowany teren. Dobra na trening crossowy. Długość: 5km.",
     "type": "BIEGOWE",
-    "imageUrl": "https://github.com/kubiakdawid/taniastrava-api/blob/main/images/lasek.jpg"
+    "imageUrl": "https://kubiakdawid.github.io/taniastrava-api/images/lasek.jpg"
   },
   {
     "id": "3",
     "name": "Rowerem na Barbarkę",
     "details": "Asfalt i utwardzone ścieżki leśne. Trasa rekreacyjna. Długość: 15km.",
     "type": "ROWEROWE",
-    "imageUrl": "https://github.com/kubiakdawid/taniastrava-api/blob/main/images/rower.jpg"
+    "imageUrl": "https://kubiakdawid.github.io/taniastrava-api/images/rower.jpg"
   },
   {
     "id": "4",
     "name": "Toruń - Złotoria",
     "details": "Długa trasa asfaltowa, częściowo ścieżką rowerową. Długość: 25km.",
     "type": "ROWEROWE",
-    "imageUrl": ""
+    "imageUrl": "https://kubiakdawid.github.io/taniastrava-api/images/zlotoria.jpg"
   },
   {
     "id": "5",
     "name": "Toruń - testowa bema",
     "details": "Bardzo długa prosta do sprintu. Długość: 25km.",
     "type": "BIEGOWE",
-    "imageUrl": ""
+    "imageUrl": "https://kubiakdawid.github.io/taniastrava-api/images/bema.jpg"
   }
 ]
