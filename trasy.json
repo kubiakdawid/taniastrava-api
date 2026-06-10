@@ -4,34 +4,81 @@
     "name": "Bulwar Filadelfijski",
     "details": "Płaska trasa wzdłuż Wisły. Idealna na wieczorne rozbieganie. Długość: 3km.",
     "type": "BIEGOWE",
-    "imageUrl": "https://kubiakdawid.github.io/taniastrava-api/images/bulwar.jpg"
+    "imageUrl": "https://kubiakdawid.github.io/taniastrava-api/images/bulwar.jpg",
+    "lat": 53.0083,
+    "lon": 18.6078,
+    "path": [
+      { "lat": 53.0072, "lon": 18.5990 },
+      { "lat": 53.0078, "lon": 18.6030 },
+      { "lat": 53.0083, "lon": 18.6075 },
+      { "lat": 53.0088, "lon": 18.6120 },
+      { "lat": 53.0092, "lon": 18.6165 }
+    ]
   },
   {
     "id": "2",
     "name": "Lasek Bielański",
     "details": "Leśne ścieżki, zróżnicowany teren. Dobra na trening crossowy. Długość: 5km.",
     "type": "BIEGOWE",
-    "imageUrl": "https://kubiakdawid.github.io/taniastrava-api/images/lasek.jpg"
+    "imageUrl": "https://kubiakdawid.github.io/taniastrava-api/images/lasek.jpg",
+    "lat": 53.0094,
+    "lon": 18.5470,
+    "path": [
+      { "lat": 53.0090, "lon": 18.5430 },
+      { "lat": 53.0105, "lon": 18.5455 },
+      { "lat": 53.0110, "lon": 18.5490 },
+      { "lat": 53.0098, "lon": 18.5510 },
+      { "lat": 53.0082, "lon": 18.5495 },
+      { "lat": 53.0078, "lon": 18.5460 },
+      { "lat": 53.0090, "lon": 18.5430 }
+    ]
   },
   {
     "id": "3",
     "name": "Rowerem na Barbarkę",
     "details": "Asfalt i utwardzone ścieżki leśne. Trasa rekreacyjna. Długość: 15km.",
     "type": "ROWEROWE",
-    "imageUrl": "https://kubiakdawid.github.io/taniastrava-api/images/rower.jpg"
+    "imageUrl": "https://kubiakdawid.github.io/taniastrava-api/images/rower.jpg",
+    "lat": 53.0350,
+    "lon": 18.5620,
+    "path": [
+      { "lat": 53.0230, "lon": 18.5750 },
+      { "lat": 53.0290, "lon": 18.5680 },
+      { "lat": 53.0350, "lon": 18.5620 },
+      { "lat": 53.0410, "lon": 18.5570 },
+      { "lat": 53.0470, "lon": 18.5520 }
+    ]
   },
   {
     "id": "4",
     "name": "Toruń - Złotoria",
     "details": "Długa trasa asfaltowa, częściowo ścieżką rowerową. Długość: 25km.",
     "type": "ROWEROWE",
-    "imageUrl": "https://kubiakdawid.github.io/taniastrava-api/images/zlotoria.jpg"
+    "imageUrl": "https://kubiakdawid.github.io/taniastrava-api/images/zlotoria.jpg",
+    "lat": 53.0020,
+    "lon": 18.6700,
+    "path": [
+      { "lat": 52.9960, "lon": 18.6080 },
+      { "lat": 52.9990, "lon": 18.6400 },
+      { "lat": 53.0020, "lon": 18.6700 },
+      { "lat": 53.0050, "lon": 18.7000 },
+      { "lat": 53.0080, "lon": 18.7300 }
+    ]
   },
   {
     "id": "5",
     "name": "Toruń - testowa bema",
     "details": "Bardzo długa prosta do sprintu. Długość: 25km.",
     "type": "BIEGOWE",
-    "imageUrl": "https://kubiakdawid.github.io/taniastrava-api/images/bema.jpg"
+    "imageUrl": "https://kubiakdawid.github.io/taniastrava-api/images/bema.jpg",
+    "lat": 53.0190,
+    "lon": 18.5870,
+    "path": [
+      { "lat": 53.0150, "lon": 18.5790 },
+      { "lat": 53.0170, "lon": 18.5830 },
+      { "lat": 53.0190, "lon": 18.5870 },
+      { "lat": 53.0210, "lon": 18.5910 },
+      { "lat": 53.0230, "lon": 18.5950 }
+    ]
   }
 ]
